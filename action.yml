@@ -1,0 +1,8 @@
+name: get-weather
+description: Get the weather of a context user.
+
+parameters:
+  longitude:
+    - description: The longitude.
+  latitude:
+    - description: The latitude.
